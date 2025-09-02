@@ -10,6 +10,11 @@ The **To-Do List Manager** is a web-based application that allows users to **add
 
 ---
 
+## Live Demo
+Check out the live project here: [To-Do List Manager](https://vamohammedilyas.github.io/Todo-list/)
+
+---
+
 ## Features
 - Add new tasks dynamically.  
 - Mark tasks as completed.  
@@ -30,3 +35,4 @@ The **To-Do List Manager** is a web-based application that allows users to **add
 1. Clone or download the repository:  
    ```bash
    git clone https://github.com/vamohammedilyas/Todo-list.git
+
